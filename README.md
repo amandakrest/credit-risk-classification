@@ -11,6 +11,7 @@ Machine Learning Model 1:
 1.	Precision: 87%
 2.	Recall: 89%
 3.	Accuracy score: 94.4%
+   
 Machine Learning Model 2:
 1.	Precision: 87%
 2.	Recall: 100%
